@@ -1,0 +1,10 @@
+# Backend
+db.sqlite3
+poetry.lock
+pyproject.toml
+pycache
+
+# Frontend
+node_modules
+package-lock.json
+dist
